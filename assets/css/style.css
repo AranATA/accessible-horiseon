@@ -1,5 +1,5 @@
 
-/* <!-- CSS coding was adapted to the element changes in the HTML coding. Redundant class definitions and unused id definitions were discarded. The visual design was improved in line with accessibility concerns so that the main parts of the body (header, main, aside, footer) are more distinguisable. Fonts are more visible with contrasting backgrounds and better size / line height. --> */
+/* <!-- CSS coding was adapted to the element changes in the HTML coding, classes were renamed following the new order. Redundant class definitions were discarded. The visual design was improved in line with accessibility concerns so that the main parts of the body (header, main, aside, footer) are more distinguisable. Fonts are more visible with contrasting backgrounds and better size / line height. --> */
 
 * {
     box-sizing: border-box;
