@@ -1,10 +1,10 @@
 
-/* <!-- CSS coding was adapted to the element changes in the HTML coding, classes were renamed following the new order. Coding was simplified and redundant class definitions were discarded. The visual design was improved in line with accessibility concerns so that the main parts of the body (header, main, aside, footer) are more distinguisable. Fonts are more visible with contrasting backgrounds and better size / line height. --> */
+/* <!-- CSS coding was adapted to the element changes in the HTML coding, classes were renamed following the new order. Coding was simplified and redundant class definitions were discarded. The visual design was improved in line with accessibility concerns so that the main parts of the body (header, figure, main, aside, footer) are more distinguisable. Fonts are more visible with contrasting backgrounds and better size / line height. --> */
 
 body {
     margin-top: 2%;
     background-color: #d9dcd6;
-}
+ }
 
 a {
     color: #f5f57a;
@@ -47,13 +47,15 @@ a {
     margin-left: 40px;
 }
 
-.image {
-    display:block;
-    height: 1075px;
-    width: 97.5%;
+.figure {
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
-    
+}
+
+.figure img {
+    height: 1075px;
+    width: 1840px;
 }
 
 .main {
