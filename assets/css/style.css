@@ -1,5 +1,5 @@
 
-/* <!-- CSS coding was adapted to the element changes in the HTML coding, classes were renamed following the new order. Redundant class definitions were discarded. The visual design was improved in line with accessibility concerns so that the main parts of the body (header, main, aside, footer) are more distinguisable. Fonts are more visible with contrasting backgrounds and better size / line height. --> */
+/* <!-- CSS coding was adapted to the element changes in the HTML coding, classes were renamed following the new order. Coding was simplified and redundant class definitions were discarded. The visual design was improved in line with accessibility concerns so that the main parts of the body (header, main, aside, footer) are more distinguisable. Fonts are more visible with contrasting backgrounds and better size / line height. --> */
 
 body {
     margin-top: 2%;
@@ -23,7 +23,7 @@ a {
 
 .header h1 {
     display: inline-block;
-    margin-left:80px;
+    margin-left:60px;
     font-size: 90px;
     font-style: italic;   
 }
@@ -44,7 +44,7 @@ a {
 .header nav ul li {
     clear: both;
     display: inline-block;
-    margin-left: 80px;
+    margin-left: 40px;
 }
 
 .image {
