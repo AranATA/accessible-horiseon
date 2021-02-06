@@ -91,9 +91,9 @@ Stephen Woosley - Bootcamp Instructor<br>
 Patrick Haberern - Bootcamp TA<br>
 Tim Nagorski - Bootcamp TA<br>
 Sean Walmer - Bootcamp TA<br>
-[https://github.com/vegaryanneil](https://github.com/vegaryanneil)
-[https://github.com/zchalk](https://github.com/zchalk)
-[https://github.com/zackshersh](https://github.com/zackshersh)
+[https://github.com/vegaryanneil](https://github.com/vegaryanneil)<br>
+[https://github.com/zchalk](https://github.com/zchalk)<br>
+[https://github.com/zackshersh](https://github.com/zackshersh)<br>
 <br>
 <br>
 
